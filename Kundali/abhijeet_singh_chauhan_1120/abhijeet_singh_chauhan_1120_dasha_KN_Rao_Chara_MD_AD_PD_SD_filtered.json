@@ -3,14 +3,6 @@
     "md_rasi": "Aries",
     "ad_rasi": "Libra",
     "pd_rasi": "Aries",
-    "sd_rasi": "Cancer",
-    "start_date": "2024-05-26",
-    "end_date": "2024-05-27"
-  },
-  {
-    "md_rasi": "Aries",
-    "ad_rasi": "Libra",
-    "pd_rasi": "Aries",
     "sd_rasi": "Leo",
     "start_date": "2024-05-27",
     "end_date": "2024-05-28"
@@ -11318,5 +11310,13 @@
     "sd_rasi": "Scorpio",
     "start_date": "2028-05-24",
     "end_date": "2028-05-25"
+  },
+  {
+    "md_rasi": "Taurus",
+    "ad_rasi": "Scorpio",
+    "pd_rasi": "Virgo",
+    "sd_rasi": "Capricorn",
+    "start_date": "2028-05-25",
+    "end_date": "2028-05-26"
   }
 ]
