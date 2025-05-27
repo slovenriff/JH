@@ -1,0 +1,614 @@
+[
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Mars",
+    "start_date": "1976-07-31",
+    "end_date": "1976-12-27"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Mars",
+    "start_date": "1976-07-31",
+    "end_date": "1976-12-27"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Rahu",
+    "start_date": "1976-12-27",
+    "end_date": "1978-01-15"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Rahu",
+    "start_date": "1976-12-27",
+    "end_date": "1978-01-15"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Jupiter",
+    "start_date": "1978-01-15",
+    "end_date": "1978-12-22"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Jupiter",
+    "start_date": "1978-01-15",
+    "end_date": "1978-12-22"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Saturn",
+    "start_date": "1978-12-22",
+    "end_date": "1980-01-30"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Saturn",
+    "start_date": "1978-12-22",
+    "end_date": "1980-01-30"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Mercury",
+    "start_date": "1980-01-30",
+    "end_date": "1981-01-27"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Mercury",
+    "start_date": "1980-01-30",
+    "end_date": "1981-01-27"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Ketu",
+    "start_date": "1981-01-27",
+    "end_date": "1981-06-25"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Ketu",
+    "start_date": "1981-01-27",
+    "end_date": "1981-06-25"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Venus",
+    "start_date": "1981-06-25",
+    "end_date": "1982-08-25"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Venus",
+    "start_date": "1981-06-25",
+    "end_date": "1982-08-25"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Sun",
+    "start_date": "1982-08-25",
+    "end_date": "1982-12-31"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Sun",
+    "start_date": "1982-08-25",
+    "end_date": "1982-12-31"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Moon",
+    "start_date": "1982-12-31",
+    "end_date": "1983-08-01"
+  },
+  {
+    "md_lord": "Mars",
+    "ad_lord": "Moon",
+    "start_date": "1982-12-31",
+    "end_date": "1983-08-01"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Rahu",
+    "start_date": "1983-08-01",
+    "end_date": "1986-04-13"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Rahu",
+    "start_date": "1983-08-01",
+    "end_date": "1986-04-13"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Jupiter",
+    "start_date": "1986-04-13",
+    "end_date": "1988-09-06"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Jupiter",
+    "start_date": "1986-04-13",
+    "end_date": "1988-09-06"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Saturn",
+    "start_date": "1988-09-06",
+    "end_date": "1991-07-14"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Saturn",
+    "start_date": "1988-09-06",
+    "end_date": "1991-07-14"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Mercury",
+    "start_date": "1991-07-14",
+    "end_date": "1994-01-30"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Mercury",
+    "start_date": "1991-07-14",
+    "end_date": "1994-01-30"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Ketu",
+    "start_date": "1994-01-30",
+    "end_date": "1995-02-17"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Ketu",
+    "start_date": "1994-01-30",
+    "end_date": "1995-02-17"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Venus",
+    "start_date": "1995-02-17",
+    "end_date": "1998-02-17"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Venus",
+    "start_date": "1995-02-17",
+    "end_date": "1998-02-17"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Sun",
+    "start_date": "1998-02-17",
+    "end_date": "1999-01-12"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Sun",
+    "start_date": "1998-02-17",
+    "end_date": "1999-01-12"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Moon",
+    "start_date": "1999-01-12",
+    "end_date": "2000-07-13"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Moon",
+    "start_date": "1999-01-12",
+    "end_date": "2000-07-13"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Mars",
+    "start_date": "2000-07-13",
+    "end_date": "2001-07-31"
+  },
+  {
+    "md_lord": "Rahu",
+    "ad_lord": "Mars",
+    "start_date": "2000-07-13",
+    "end_date": "2001-07-31"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Jupiter",
+    "start_date": "2001-07-31",
+    "end_date": "2003-09-19"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Jupiter",
+    "start_date": "2001-07-31",
+    "end_date": "2003-09-19"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Saturn",
+    "start_date": "2003-09-19",
+    "end_date": "2006-04-01"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Saturn",
+    "start_date": "2003-09-19",
+    "end_date": "2006-04-01"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Mercury",
+    "start_date": "2006-04-01",
+    "end_date": "2008-07-07"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Mercury",
+    "start_date": "2006-04-01",
+    "end_date": "2008-07-07"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Ketu",
+    "start_date": "2008-07-07",
+    "end_date": "2009-06-13"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Ketu",
+    "start_date": "2008-07-07",
+    "end_date": "2009-06-13"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Venus",
+    "start_date": "2009-06-13",
+    "end_date": "2012-02-12"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Venus",
+    "start_date": "2009-06-13",
+    "end_date": "2012-02-12"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Sun",
+    "start_date": "2012-02-12",
+    "end_date": "2012-11-30"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Sun",
+    "start_date": "2012-02-12",
+    "end_date": "2012-11-30"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Moon",
+    "start_date": "2012-11-30",
+    "end_date": "2014-04-01"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Moon",
+    "start_date": "2012-11-30",
+    "end_date": "2014-04-01"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Mars",
+    "start_date": "2014-04-01",
+    "end_date": "2015-03-08"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Mars",
+    "start_date": "2014-04-01",
+    "end_date": "2015-03-08"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Rahu",
+    "start_date": "2015-03-08",
+    "end_date": "2017-07-31"
+  },
+  {
+    "md_lord": "Jupiter",
+    "ad_lord": "Rahu",
+    "start_date": "2015-03-08",
+    "end_date": "2017-07-31"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Saturn",
+    "start_date": "2017-07-31",
+    "end_date": "2020-08-03"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Saturn",
+    "start_date": "2017-07-31",
+    "end_date": "2020-08-03"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Mercury",
+    "start_date": "2020-08-03",
+    "end_date": "2023-04-13"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Mercury",
+    "start_date": "2020-08-03",
+    "end_date": "2023-04-13"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Ketu",
+    "start_date": "2023-04-13",
+    "end_date": "2024-05-22"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Ketu",
+    "start_date": "2023-04-13",
+    "end_date": "2024-05-22"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Venus",
+    "start_date": "2024-05-22",
+    "end_date": "2027-07-23"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Venus",
+    "start_date": "2024-05-22",
+    "end_date": "2027-07-23"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Sun",
+    "start_date": "2027-07-23",
+    "end_date": "2028-07-04"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Sun",
+    "start_date": "2027-07-23",
+    "end_date": "2028-07-04"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Moon",
+    "start_date": "2028-07-04",
+    "end_date": "2030-02-02"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Moon",
+    "start_date": "2028-07-04",
+    "end_date": "2030-02-02"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Mars",
+    "start_date": "2030-02-02",
+    "end_date": "2031-03-14"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Mars",
+    "start_date": "2030-02-02",
+    "end_date": "2031-03-14"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Rahu",
+    "start_date": "2031-03-14",
+    "end_date": "2034-01-18"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Rahu",
+    "start_date": "2031-03-14",
+    "end_date": "2034-01-18"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Jupiter",
+    "start_date": "2034-01-18",
+    "end_date": "2036-07-31"
+  },
+  {
+    "md_lord": "Saturn",
+    "ad_lord": "Jupiter",
+    "start_date": "2034-01-18",
+    "end_date": "2036-07-31"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Mercury",
+    "start_date": "2036-07-31",
+    "end_date": "2038-12-28"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Mercury",
+    "start_date": "2036-07-31",
+    "end_date": "2038-12-28"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Ketu",
+    "start_date": "2038-12-28",
+    "end_date": "2039-12-25"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Ketu",
+    "start_date": "2038-12-28",
+    "end_date": "2039-12-25"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Venus",
+    "start_date": "2039-12-25",
+    "end_date": "2042-10-25"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Venus",
+    "start_date": "2039-12-25",
+    "end_date": "2042-10-25"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Sun",
+    "start_date": "2042-10-25",
+    "end_date": "2043-09-01"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Sun",
+    "start_date": "2042-10-25",
+    "end_date": "2043-09-01"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Moon",
+    "start_date": "2043-09-01",
+    "end_date": "2045-01-30"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Moon",
+    "start_date": "2043-09-01",
+    "end_date": "2045-01-30"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Mars",
+    "start_date": "2045-01-30",
+    "end_date": "2046-01-27"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Mars",
+    "start_date": "2045-01-30",
+    "end_date": "2046-01-27"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Rahu",
+    "start_date": "2046-01-27",
+    "end_date": "2048-08-16"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Rahu",
+    "start_date": "2046-01-27",
+    "end_date": "2048-08-16"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Jupiter",
+    "start_date": "2048-08-16",
+    "end_date": "2050-11-22"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Jupiter",
+    "start_date": "2048-08-16",
+    "end_date": "2050-11-22"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Saturn",
+    "start_date": "2050-11-22",
+    "end_date": "2053-08-01"
+  },
+  {
+    "md_lord": "Mercury",
+    "ad_lord": "Saturn",
+    "start_date": "2050-11-22",
+    "end_date": "2053-08-01"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Ketu",
+    "start_date": "2053-08-01",
+    "end_date": "2053-12-28"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Ketu",
+    "start_date": "2053-08-01",
+    "end_date": "2053-12-28"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Venus",
+    "start_date": "2053-12-28",
+    "end_date": "2055-02-27"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Venus",
+    "start_date": "2053-12-28",
+    "end_date": "2055-02-27"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Sun",
+    "start_date": "2055-02-27",
+    "end_date": "2055-07-05"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Sun",
+    "start_date": "2055-02-27",
+    "end_date": "2055-07-05"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Moon",
+    "start_date": "2055-07-05",
+    "end_date": "2056-02-03"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Moon",
+    "start_date": "2055-07-05",
+    "end_date": "2056-02-03"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Mars",
+    "start_date": "2056-02-03",
+    "end_date": "2056-07-01"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Mars",
+    "start_date": "2056-02-03",
+    "end_date": "2056-07-01"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Rahu",
+    "start_date": "2056-07-01",
+    "end_date": "2057-07-20"
+  },
+  {
+    "md_lord": "Ketu",
+    "ad_lord": "Rahu",
+    "start_date": "2056-07-01",
+    "end_date": "2057-07-20"
+  }
+]
