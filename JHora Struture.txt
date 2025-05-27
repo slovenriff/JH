@@ -1,0 +1,142 @@
+PS D:\GDrive\Abhijeet\Astrology\PythonProject\PyJhora\.venv\Lib\site-packages\jhora> Show-Tree -Path . -Filter "*.py"
+.
+├── data
+│   ├── ephe
+│   │   ├── sat
+├── horoscope
+│   ├── chart
+│   │   ├── __pycache__
+│   │   ├── arudhas.py
+│   │   ├── ashtakavarga.py
+│   │   ├── charts.py
+│   │   ├── dosha.py
+│   │   ├── house.py
+│   │   ├── raja_yoga.py
+│   │   ├── sphuta.py
+│   │   ├── strength.py
+│   │   ├── yoga.py
+│   │   ├── __init__.py
+│   ├── dhasa
+│   │   ├── annual
+│   │   │   ├── __pycache__
+│   │   │   ├── mudda.py
+│   │   │   ├── patyayini.py
+│   │   ├── graha
+│   │   │   ├── __pycache__
+│   │   │   ├── aayu.py
+│   │   │   ├── applicability.py
+│   │   │   ├── ashtottari.py
+│   │   │   ├── buddhi_gathi.py
+│   │   │   ├── chathuraaseethi_sama.py
+│   │   │   ├── dwadasottari.py
+│   │   │   ├── dwisatpathi.py
+│   │   │   ├── kaala.py
+│   │   │   ├── karaka.py
+│   │   │   ├── karana_chathuraaseethi_sama.py
+│   │   │   ├── naisargika.py
+│   │   │   ├── panchottari.py
+│   │   │   ├── saptharishi_nakshathra.py
+│   │   │   ├── sataatbika.py
+│   │   │   ├── shastihayani.py
+│   │   │   ├── shattrimsa_sama.py
+│   │   │   ├── shodasottari.py
+│   │   │   ├── tara.py
+│   │   │   ├── tithi_ashtottari.py
+│   │   │   ├── tithi_yogini.py
+│   │   │   ├── vimsottari.py
+│   │   │   ├── yoga_vimsottari.py
+│   │   │   ├── yogini.py
+│   │   ├── raasi
+│   │   │   ├── __pycache__
+│   │   │   ├── brahma.py
+│   │   │   ├── chakra.py
+│   │   │   ├── chara.py
+│   │   │   ├── drig.py
+│   │   │   ├── kalachakra.py
+│   │   │   ├── kendradhi_rasi.py
+│   │   │   ├── lagnamsaka.py
+│   │   │   ├── mandooka.py
+│   │   │   ├── moola.py
+│   │   │   ├── narayana.py
+│   │   │   ├── navamsa.py
+│   │   │   ├── nirayana.py
+│   │   │   ├── padhanadhamsa.py
+│   │   │   ├── paryaaya.py
+│   │   │   ├── sandhya.py
+│   │   │   ├── shoola.py
+│   │   │   ├── sthira.py
+│   │   │   ├── sudasa.py
+│   │   │   ├── tara_lagna.py
+│   │   │   ├── trikona.py
+│   │   │   ├── varnada.py
+│   │   │   ├── yogardha.py
+│   │   ├── __pycache__
+│   │   ├── sudharsana_chakra.py
+│   │   ├── __init__.py
+│   ├── match
+│   │   ├── __pycache__
+│   │   ├── compatibility.py
+│   │   ├── __init__.py
+│   ├── prediction
+│   │   ├── __pycache__
+│   │   ├── general.py
+│   │   ├── longevity.py
+│   │   ├── naadi_marriage.py
+│   │   ├── __init__.py
+│   ├── transit
+│   │   ├── __pycache__
+│   │   ├── saham.py
+│   │   ├── tajaka.py
+│   │   ├── tajaka_yoga.py
+│   │   ├── __init__.py
+│   ├── __pycache__
+│   ├── main.py
+│   ├── __init__.py
+├── images
+├── lang
+├── panchanga
+│   ├── __pycache__
+│   ├── drik.py
+│   ├── drik1.py
+│   ├── khanda_khaadyaka.py
+│   ├── pancha_paksha.py
+│   ├── surya_sidhantha.py
+│   ├── vratha.py
+│   ├── __init__.py
+├── tests
+│   ├── __pycache__
+│   ├── book_chart_data.py
+│   ├── pvr_tests.py
+│   ├── test_ss.py
+│   ├── test_ui.py
+│   ├── test_yogas.py
+│   ├── __init__.py
+├── ui
+│   ├── __pycache__
+│   ├── chakra.py
+│   ├── chart_styles.py
+│   ├── conjunction_dialog.py
+│   ├── dhasa_bhukthi_options_dialog.py
+│   ├── horo_chart.py
+│   ├── horo_chart_tabs.py
+│   ├── label_grid.py
+│   ├── match_ui.py
+│   ├── mixed_chart_dialog.py
+│   ├── options_dialog.py
+│   ├── panchangam.py
+│   ├── pancha_pakshi_sastra_widget.py
+│   ├── test.py
+│   ├── test1.py
+│   ├── test2.py
+│   ├── vakra_gathi_plot.py
+│   ├── varga_chart_dialog.py
+│   ├── vedic_calendar.py
+│   ├── vedic_clock.py
+│   ├── vratha_finder.py
+│   ├── __init__.py
+├── __pycache__
+├── const.py
+├── setup.py
+├── utils.py
+├── _package_info.py
+├── __init__.py
