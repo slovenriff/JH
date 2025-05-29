@@ -1,4 +1,4 @@
-PS D:\GDrive\Abhijeet\Astrology\PythonProject\PyJhora\.venv\Lib\site-packages\jhora> Show-Tree -Path . -Filter "*.py"
+PS D:\GDrive\Abhijeet\Astrology\PythonProject\JH\.venv\Lib\site-packages\jhora> Show-Tree -Path . -Filter "*.py"
 .
 ├── data
 │   ├── ephe
