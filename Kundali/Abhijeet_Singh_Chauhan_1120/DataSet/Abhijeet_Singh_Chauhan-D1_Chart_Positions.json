@@ -1,0 +1,91 @@
+{
+  "birth_parameters_used": {
+    "name": "Abhijeet Singh Chauhan",
+    "date_of_birth": "1976-09-06",
+    "time_of_birth": "11:20:00",
+    "latitude": 28.6273928,
+    "longitude": 77.1716954,
+    "timezone_offset": 5.5,
+    "city_name": "Delhi",
+    "country_name": "India",
+    "gender": "neutral",
+    "raw_place_string": "Delhi, India",
+    "geocoding_success": true,
+    "iana_timezone_name": "Asia/Kolkata",
+    "ayanamsa_mode_to_be_used": "LAHIRI",
+    "actual_ayanamsa_mode_used": "LAHIRI"
+  },
+  "chart_name": "D1 Rasi Chart",
+  "positions": [
+    {
+      "point": "Ascendant",
+      "rasi_index": 6,
+      "rasi_name": "Libra",
+      "longitude_in_rasi": 28.601,
+      "longitude_dms": "28°36'04\""
+    },
+    {
+      "point": "Sun",
+      "rasi_index": 4,
+      "rasi_name": "Leo",
+      "longitude_in_rasi": 20.2327,
+      "longitude_dms": "20°13'58\""
+    },
+    {
+      "point": "Moon",
+      "rasi_index": 9,
+      "rasi_name": "Capricorn",
+      "longitude_in_rasi": 23.5263,
+      "longitude_dms": "23°31'35\""
+    },
+    {
+      "point": "Mars",
+      "rasi_index": 5,
+      "rasi_name": "Virgo",
+      "longitude_in_rasi": 14.8548,
+      "longitude_dms": "14°51'17\""
+    },
+    {
+      "point": "Mercury",
+      "rasi_index": 5,
+      "rasi_name": "Virgo",
+      "longitude_in_rasi": 13.9732,
+      "longitude_dms": "13°58'24\""
+    },
+    {
+      "point": "Jupiter",
+      "rasi_index": 1,
+      "rasi_name": "Taurus",
+      "longitude_in_rasi": 7.3714,
+      "longitude_dms": "7°22'17\""
+    },
+    {
+      "point": "Venus",
+      "rasi_index": 5,
+      "rasi_name": "Virgo",
+      "longitude_in_rasi": 12.0124,
+      "longitude_dms": "12°00'45\""
+    },
+    {
+      "point": "Saturn",
+      "rasi_index": 3,
+      "rasi_name": "Cancer",
+      "longitude_in_rasi": 17.8429,
+      "longitude_dms": "17°50'34\""
+    },
+    {
+      "point": "Rahu",
+      "rasi_index": 6,
+      "rasi_name": "Libra",
+      "longitude_in_rasi": 12.5341,
+      "longitude_dms": "12°32'03\""
+    },
+    {
+      "point": "Ketu",
+      "rasi_index": 0,
+      "rasi_name": "Aries",
+      "longitude_in_rasi": 12.5341,
+      "longitude_dms": "12°32'03\""
+    }
+  ]
+}

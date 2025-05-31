@@ -1,0 +1,14 @@
+Geo/Timezone Info for: Abhijeet Singh Chauhan
+  date_of_birth: 1976-09-06
+  time_of_birth: 11:20:00
+  latitude: 28.6273928
+  longitude: 77.1716954
+  timezone_offset: 5.5
+  city_name: Delhi
+  country_name: India
+  gender: neutral
+  raw_place_string: Delhi, India
+  geocoding_success: True
+  iana_timezone_name: Asia/Kolkata
+  ayanamsa_mode_to_be_used: LAHIRI
+  actual_ayanamsa_mode_used: LAHIRI
